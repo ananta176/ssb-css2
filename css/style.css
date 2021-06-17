@@ -1,0 +1,81 @@
+
+
+.bold{
+    text-align: Center;
+    color: lightgreen;
+}
+
+.single{
+    text-align: center;
+      color: red;
+      font: black;
+}
+     
+.text{
+    text-align: center;
+    color: blue;
+    font: black;
+}
+h1{
+    align-content: center;
+    color: orangered;
+}
+h2{
+    color: lightskyblue;
+}
+p{
+    color: violet;
+}
+.en{
+    color: violet;
+}
+table{
+    align: center;
+}
+
+}
+th{
+    color: royalblue;
+}
+.charset{
+    color: lawngreen;
+}
+.select{
+    color: gold;
+}
+.section{
+    color: navy;
+}
+.address{
+    color: springgreen;
+}
+.box{
+    height: 100px;
+    width: 100px;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+    margin: 50px 80px 50px 80px;
+}
+.yellow{
+    background-color: yellow;
+    margin: 50px 80px 50px 160px;
+}
+.black{
+    background-color: black;
+}
+.navy{
+    background-color: navy;
+    margin: 50px 80px 50px 80px;
+}
+.blue{
+    background-color: blue;
+    margin:  50px 80px 50px 160px;
+}
+h2{
+    color: black;
+}
+
